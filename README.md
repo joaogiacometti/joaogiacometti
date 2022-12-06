@@ -4,10 +4,10 @@
 
 <div>
   <a href="https://github.com/joaogiacometti">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=joaogiacometti&show_icons=true&theme=github_dark&count_private=true" />
+    <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=joaogiacometti&show_icons=true&theme=github_dark&count_private=true" />
   </a>
   <a href="https://github.com/joaogiacometti">
-    <img align="center" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogiacometti&layout=compact&theme=github_dark&count_private=true" />
+    <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogiacometti&layout=compact&theme=github_dark&count_private=true" />
 </a>
 </div>
 
