@@ -1,7 +1,5 @@
 # Olá, bem vindo(a) ao meu perfil
 
-Desenvolvedor formado no Colégio Técnico Industrial “Prof. Isaac Portal Roldán" no curso de informática. Procuro estágio com Python ou Java.
-
 ## Estatísticas
 
 <div>
