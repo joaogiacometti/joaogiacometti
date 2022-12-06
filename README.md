@@ -2,14 +2,12 @@
 
 ## Estatísticas
 
-<div>
-  <a href="https://github.com/joaogiacometti">
-    <img align="center" width="330px" src="https://github-readme-stats.vercel.app/api?username=joaogiacometti&show_icons=true&theme=github_dark&count_private=true" />
-  </a>
-  <a href="https://github.com/joaogiacometti">
-    <img align="center" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogiacometti&layout=compact&theme=github_dark&count_private=true" />
+<a href="https://github.com/joaogiacometti/github-readme-stats">
+  <img align="center" width='50%' src="https://github-readme-stats.vercel.app/api?username=joaogiacometti&theme=radical" />
 </a>
-</div>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogiacometti&theme=radical" />
+</a>
 
 
 
