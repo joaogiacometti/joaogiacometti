@@ -1,16 +1,47 @@
-### Hi there 👋
+# Olá, bem vindo(a) ao meu perfil
 
-<!--
-**joaogiacometti/joaogiacometti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tenho interesse em trabalhar/estagiar usando Python ou Java
 
-Here are some ideas to get you started:
+## Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+  <a href="https://github.com/joaogiacometti">
+    <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=joaogiacometti&show_icons=true&theme=github_dark&count_private=true" />
+  </a>
+  <!--
+  <a href="https://github.com/joaogiacometti">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogiacometti&layout=compact&theme=github_dark&count_private=true" />
+</a>
 -->
+</div>
+
+
+
+## Linguagens que eu tenho experiência
+<div>
+
+  <div style="display: inline_block">
+
+  <a href="https://github.com/joaogiacometti/ToolsApp"><img align="center" alt="Python" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
+  <img align="center" alt="Java" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="C" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="C++" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  </div>
+  
+  
+
+</div>
+
+
+## Sistemas que eu tenho experiência
+
+<div>
+
+  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  
+</div>
+ 
+  
+
