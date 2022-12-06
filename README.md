@@ -16,10 +16,10 @@
 
   <div style="display: inline_block">
 
-  <a href="https://github.com/joaogiacometti/ToolsApp"><img align="center" alt="Python" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
-  <img align="center" alt="Java" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="C" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="C++" height=80, width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <a href="https://github.com/joaogiacometti/ToolsApp"><img align="center" alt="Python" width='8%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
+  <img align="center" alt="Java" width='8%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="C" width='8%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="C++" width='8%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   </div>
   
   
